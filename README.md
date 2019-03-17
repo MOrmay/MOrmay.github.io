@@ -12,6 +12,7 @@ https://github.com/MOrmay?tab=repositories
 
 I grew up in Loxton, a country town about 3 hours from Adelaide where I attended high school and completed year 12. I have played field hockey continuously since primary school and despite having played that long, I play in the second lowest grade for Adelaide Uni.
  
+#Interest in IT
 
 Growing up there was always a computer in the house. At a young age I was introduced to the computer through a piece of software called Ruff’s Bone. From here computers remained a steady interest but always something just to be used. Outside of my general use of computers to complete assignments, play games and browse the internet.
 
@@ -20,6 +21,8 @@ I have almost no experience in IT. I have never received formal training or take
 I chose to come to RMIT through Open Universities as what I was studying previously in Adelaide has not worked out.  
 
 Through coming to RMIT I hope to gain a better understanding of what it takes to program and how programs operate. As well as a broader idea of what is available in the IT industry. 
+
+#Ideal Job
 
 Cyber Security Engineer/Architect
 
@@ -36,12 +39,20 @@ To be considered for this job I need a considerable amount of experience and edu
 Currently I do not possess the knowledge or skills to perform this job. The only qualifications I possess are my SACE certificate and a few completed university subjects. 
 
 My plan is to complete the first six months of this course and consider either continuing with RMIT or to transfer to UNI SA into their IT and security degree they offer. Somewhere around years two or three hopefully I can get some work experience to bolster my chances of finding a job after completing a degree.
+
+#My Personality
+
+![alt text](https://github.com/MOrmay/MOrmay.github.io/blob/master/personality.png?raw=true "Myer Briggs Test")
+![alt text](https://github.com/MOrmay/MOrmay.github.io/blob/master/learning.png?raw=true "Learning Styles Test")
+![alt text](https://github.com/MOrmay/MOrmay.github.io/blob/master/big5.png?raw=true "Big 5 Test")
  
 Being classified as an INFP I am less likely to want to take on a leadership role and instead take more of a backseat role trying to make sure the project stays close to the original idea. As a visual learner I do quite well learning things by watching them happen, reading and taking notes and, from personal experience, by repeating or doing what was just demonstrated for myself. As I will most likely need to be adept at coding or at least have a good understanding of it for future assignments I will need to take this information into account whilst I am learning. 
 
 Whilst in a team I am likely to go with the flow to keep people happy with their vision of the project. If the project is an idea I like I may get carried away and do too much on it or add too much "personal touch" that gets in the way of the overall function. As I am a visual based person if there is something in the project that I don't understand but would like to grasp better it would be best if I had someone walk me through it with a copy in front of me. 
 
 Knowing that I may not be a natural leader it would be wise to make sure that someone who might be was included in the group. Due to my ideals it would also be best if I was in a group that have a similar vision or feelings as myself and are visual based people as well. 
+
+#Project Idea
 
 Heatmaps are an interesting and easy way to present the distribution of population in an area. In an ever-growing online world, more people have phones with wireless capabilities. As it seems most people don’t deactivate their WIFI when they leave home, the idea of this project is to distribute a network of small, wireless detecting chipsets throughout a city to give a city council an idea of where its populace spends its time for its marketing, development and financial team. 
 
