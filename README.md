@@ -21,8 +21,9 @@ I chose to come to RMIT through Open Universities as what I was studying previou
 
 Through coming to RMIT I hope to gain a better understanding of what it takes to program and how programs operate. As well as a broader idea of what is available in the IT industry. 
 
-Page Break
-Cyber Security Engineer/Architect 
+Cyber Security Engineer/Architect
+
+![alt text](https://github.com/MOrmay/MOrmay.github.io/blob/master/jobquestion.png?raw=true "Job Search Image")
 
 https://www.seek.com.au/job/38579138?searchrequesttoken=dde87abf-d198-4def-ae51-a872cc555efa&type=standout 
 
